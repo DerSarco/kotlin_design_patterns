@@ -1,3 +1,5 @@
+package creationalPatterns
+
 import org.assertj.core.api.Assertions
 import org.junit.Test
 
@@ -13,7 +15,7 @@ abstract class DataSourceFactory{
     abstract fun makeDataSource(): DataSource
 
     companion object {
-        inline fun <reified T: DataSource> createFactory():DataSourceFactory =
+        inline fun <reified T: DataSource> createFactory(): DataSourceFactory =
             when(T::class){
                 DataBasesDataSource::class -> DatabaseFactory()
                 NetworkDataSource::class -> NetworkFactory()

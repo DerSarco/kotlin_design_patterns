@@ -1,3 +1,5 @@
+package creationalPatterns
+
 import org.assertj.core.api.Assertions
 import org.junit.Test
 
