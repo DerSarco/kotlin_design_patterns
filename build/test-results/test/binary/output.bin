@@ -1,6 +1,4 @@
- ProxyImage: Displaying test.jpg
-Real Image: loading test.jpg
- Real Image: displaying test.jpg
- -------------------------------
- ProxyImage: Displaying test.jpg
- Real Image: displaying test.jpg
+Current state is State 2
+Current state is State 1
+Current state is Initial State
+Current state is State 2
