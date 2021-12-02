@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creationalPatterns.PrototypeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-02T12:22:03" hostname="sarco" time="0.037">
+  <properties/>
+  <testcase name="prototypeTest" classname="creationalPatterns.PrototypeTest" time="0.037"/>
+  <system-out><![CDATA[Inside circle::draw() method.
+Inside square::draw() method.
+Inside rectangle::draw() method.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
