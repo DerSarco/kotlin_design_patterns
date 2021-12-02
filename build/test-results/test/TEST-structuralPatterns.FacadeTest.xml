@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="structuralPatterns.FacadeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-02T17:32:04" hostname="sarco" time="0.036">
-  <properties/>
-  <testcase name="testFacade" classname="structuralPatterns.FacadeTest" time="0.036"/>
-  <system-out><![CDATA[reading data from the file /data/default.prefs
-Storing cached data to file /data/default.prefs
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

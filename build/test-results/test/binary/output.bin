@@ -1,2 +1,6 @@
-/reading data from the file /data/default.prefs
-0Storing cached data to file /data/default.prefs
+ ProxyImage: Displaying test.jpg
+Real Image: loading test.jpg
+ Real Image: displaying test.jpg
+ -------------------------------
+ ProxyImage: Displaying test.jpg
+ Real Image: displaying test.jpg
